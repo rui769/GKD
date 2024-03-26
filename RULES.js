@@ -1,8 +1,9 @@
 {
-  "id":9999,
-    "name":"Ray的订阅",
-    "version":1,"author":"Ray",
-    supportUri:'s',
+  'id':9999,
+    'name':'Ray的订阅',
+    'version':1,
+    'author':'Ray',
+    supportUri:'',
     checkUpdateUrl:'',
   {
   id: 'com.tencent.mm',
